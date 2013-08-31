@@ -20,4 +20,4 @@ JobCode
 
 Sample
 ------
-http://raw.github.com/mabin359/GooMPAS/master/Sample/index.htm
+http://mabin359.github.io/GooMPAS/sample.htm
